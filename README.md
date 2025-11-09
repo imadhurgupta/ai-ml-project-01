@@ -65,6 +65,5 @@ tensorflow>=2.12.0 numpy pillow fastapi uvicorn[standard] scikit-learn pytest
 pycache/ .venv/ .experiments/ experiments/ *.pyc *.pkl *.h5 .env
 ---
 ## src/configs.py
-```python
-from dataclasses import dataclass
+
 
